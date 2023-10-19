@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<title>HISTORICAL NEWS</title>
+<link rel="icon" type="images/x-icon"href="images/ikon eiffel.jpg">
+</head>
+<body>
+    <!--Container for the main content-->
+<div style="font-family: Cambria;background-color: rgb(35, 216, 11);color:aliceblue;text-align: center;font-size: 100%;margin-left:20%;margin-right: 20%;padding-left: 0%;padding-right: 0%;">
+<br>
+<!--Title and author information-->
+<h1 style="background-color: black;">Menara Eiffel</h1>
+<br>
+<p style="background-color: rgb(230, 190, 15);">Viska Mia Sari (11210251000101)</p>
+<p style="background-color: rgb(230, 190, 15);">5A Ilmu Perpustakaan</p>
+<img src="Images/eiffel.jpg" width="200" height="200">
+
+    <p style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size:20px;padding-left: 20%;padding-right: 20%;"></p>
+ <pre>   
+<p style="text-align: left;">       <b>Menara Eiffel</b> adalah struktur logam setinggi <q>324 meter</q> yang terletak di kota 
+    Paris, Prancis. Bangunan ini dibangun oleh insinyur Perancis Gustave Eiffel pada tahun 1887 hingga 1889 
+    sebagai bagian dari Pameran Dunia 1889 yang diadakan di Paris. Pembangunan ini awalnya mendapat banyak 
+    kritik dari masyarakat Prancis, namun Gustave berhasil meyakinkan pemerintah dan publik bahwa menara ini 
+    akan menjadi keajaiban teknik dan arsitektur yang luar biasa. Bangunan ini menjadi simbol modernitas dan 
+    kemajuan Prancis pada abad ke-19. </p>
+<p style="text-align: left;">       Eiffel dibangun untuk memperingati <b>100 tahun Revolusi Prancis</b> 
+    terjadi pada tahun 1789, serta untuk menunjukkan kemajuan teknologi dan arsitektur yang luar biasa, dan 
+    menjadi simbol modernitas dan kemajuan Prancis di mata dunia.</p>
+<p style="text-align: left;">       Selain itu, Gustave juga menyadari potensi Menara Eiffel sebagai sarana 
+    komunikasi radio, sehingga bangunan ini menjadi salah satu bangunan tertinggi dan paling terkenal di 
+    dunia hingga saat ini. Bangunan ini juga menjadi salah satu banggunan tertinggi dan paling terkenaldi 
+    dunia hingga saat ini.</p>
+</pre>
+    <br>
+<!--Styling untuk paragraf-->
+<pre>
+<p style="text-align: left;">   info selengkapnya,<a href="https://www.orami.co.id/magazine/menara-eiffel" target="_blank">klik di sini</a></p>
+</pre>
+</div>
+</body>
+</htnml>
